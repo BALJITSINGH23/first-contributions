@@ -12,6 +12,13 @@ It's a text file that accompanies a software project, written in Markdown format
 
 It's the first point of contact for anyone encountering your project, providing essential information about its purpose, usage, and more. A well-written README.md enhances accessibility, collaboration, and potential user engagement.
 
+## Table of contents
+
+- Tips for Writing an Effective README.md
+  - Points to remember
+  - README sections
+- Basic writing and formatting syntax
+
 ## Tips for Writing an Effective README.md
 
 ### Points to remember:
@@ -113,3 +120,5 @@ Tables can be created using pipe (|) and hyphen (-) symbols.
 Escaping Characters:
 
 To display characters that have special meaning in Markdown (e.g., \*, \_, [, ]), you can use a backslash (\) before the character to escape it.
+
+REFERENCE: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
