@@ -1,3 +1,9 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/devncode/first-contributions)](https://github.com/devncode/first-contributions/pulls)
+
+<h2 style="color: red">Just to be clear, pull request in this repo will not count in HacktoberFest</h2>
+
 # First Contribution
 
 This repo aims to create a simple to-do list application suitable for beginners in both programming and open-source contributions. The application will have basic features like adding tasks, marking them as complete, and deleting them.
@@ -86,3 +92,33 @@ git commit -m "Add <your-name> to Contributors list"
 - replace `<your-name>` with your name.
 
 <img align="center" width="450" src="assets/git-status.png" alt="git status" />
+
+## Push changes to GitHub
+
+#### Push your changes using the command `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+#### Replace `<add-your-branch-name>` with the name of the branch you created earlier.
+
+## Submit your changes for review
+
+#### Now if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+#### Now submit the pull request.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+Soon, I'll be merging all your pull requests into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Contributors
+
+Thank you to all the contributors who help in making this project better :raised_hands:
+
+<a href="https://github.com/devncode/first-contributions/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=devncode/first-contributions" />
+</a>
