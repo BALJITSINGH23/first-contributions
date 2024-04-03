@@ -124,3 +124,23 @@ Escaping Characters:
 To display characters that have special meaning in Markdown (e.g., \*, \_, [, ]), you can use a backslash (\) before the character to escape it.
 
 REFERENCE: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## My Contribution to fix that issues
+
+Creating this README was a journey of discovery. I searched the web, peeking at other projects' README files, trying to find what makes them so helpful.
+With each click, I learned how to make instructions clearer and layouts friendlier. I wanted our README to be like a helpful friend, guiding everyone through our project with ease.
+So, I took what I learned and revamped our README. Every word, every picture, every layout choice was made to make things easier for user.
+
+- Improved Image Alignment: Proper alignment of images alongside corresponding instructions enhances clarity and makes it easier for users to understand each step.
+
+- Enhanced Content Organization: Introducing new headings helps organize the content and provides users with a clear roadmap of the contribution process.
+
+- Clarified Instructions: Breaking down instructions into multiple bullet points prevents information overload and ensures that each task is clearly defined.
+
+- Increased User-Friendliness: By addressing issues with content and image overlap, users can now navigate the documentation more easily, leading to a more user-friendly experience.
+
+- Accessible Guidance: Clear instructions and well-aligned images make the contribution process more accessible, especially for users who are new to open-source development.
+
+- Improved Comprehension: Users can now understand each step more clearly, leading to improved comprehension and a higher likelihood of successful contributions.
+
+- Encouraging Participation: Creating a seamless and intuitive experience for users encourages their participation and contributes to the overall success of the project.
