@@ -43,6 +43,46 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
     For example:
     git clone https://github.com/this-is-you/first-contributions.git
 
-        * where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+    - where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+
+    <img align="center" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ## Create a branch
+
+#### Change to the repository directory on your computer (if you are not already there):
+
+cd first-contributions
+
+#### Now create a branch using the `git checkout` command:
+
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+##### For example:
+
+- git checkout -b add-muhammad
+
+(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+## Make necessary changes and commit those changes
+
+Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture URL (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+- Add those changes to the branch you just created using the `git add` command:
+
+```
+git add _data/contributions.yml
+```
+
+- Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Add <your-name> to Contributors list"
+```
+
+- replace `<your-name>` with your name.
+
+<img align="center" width="450" src="assets/git-status.png" alt="git status" />
